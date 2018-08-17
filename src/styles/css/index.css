@@ -1,0 +1,9 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; }
+  .app__add-todo {
+    margin: 20px 0; }
+  .app__todos-list {
+    display: flex;
+    justify-content: flex-start; }

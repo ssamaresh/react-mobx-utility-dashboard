@@ -1,0 +1,15 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  &__add-todo {
+    margin: 20px 0;
+  }
+
+  &__todos-list {
+    display: flex;
+    justify-content: flex-start;
+  }
+
+}
